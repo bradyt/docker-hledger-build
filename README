@@ -1,3 +1,2 @@
 
-This Dockerfile is to build hledger executables, which for example can
-take approximately eight hours to build on a small VPS.
+Dockerfile to build hledger executables.
